@@ -1,0 +1,9 @@
+json.id           group_event.id
+json.name         group_event.name
+json.description  group_event.description
+json.status       group_event.status
+json.start_date   group_event.start_date
+json.end_date     group_event.end_date
+json.duration     group_event.duration
+json.latitude     group_event.latitude
+json.longitude    group_event.longitude
